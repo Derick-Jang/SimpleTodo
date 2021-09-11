@@ -4,7 +4,7 @@
 
 Submitted by: **Derick Jang**
 
-Time spent: 3 hours
+Time spent: 4 hours
 
 ## User Stories
 
